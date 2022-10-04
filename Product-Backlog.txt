@@ -1,0 +1,14 @@
+First Task: define phase 1 product backlog
+AB#1
+
+Definido que o backlog de produtos da Fase 1 - Coleta de Dados - Crawling/Spidering será:
+Issue 7 - Base de Dados não estruturados (CSV/JSON) dos Web sites previamente identificados
+Issue 8 - Base de Dados (CSV/JSON) das newsletter / emails
+Issue 9 - Base de Dados (CSV/JSON) de outros sites a serem pesquisados
+
+O Issue 7 será resolvido em vários sprints. No sprint 1, de 23/nov a 14/dez, serão realizadas as Tasks 11 a 15, nos seguintes sites da Web selecionados como prioritário:
+- https://www.thegef.org/
+- https://royalsociety.org/
+- https://www.iadb.org/pt
+- https://www.speciesconservation.org/about-us/
+- https://www.rufford.org/
